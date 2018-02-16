@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Navbar from '../navbar/Navbar';
+import Footer from '../footer/Footer';
 
 class Home extends Component {
   render() {
@@ -18,6 +19,7 @@ class Home extends Component {
             In non suscipit quam. Morbi eu purus fringilla, bibendum elit nec, varius tellus. Sed ut dapibus odio, sit amet pretium purus. Vivamus vehicula tempor justo. Morbi tempus est interdum pellentesque eleifend. Phasellus quis ullamcorper risus. Phasellus bibendum faucibus vulputate. Cras at nisl mi. Phasellus tincidunt ante tellus, ac molestie nisi dignissim eu. Suspendisse ullamcorper nunc vehicula, dapibus neque id, finibus dui. Donec luctus, metus rutrum sodales pharetra, dolor augue mollis nisl, id dapibus erat justo eget odio. Donec porta mauris augue. Pellentesque laoreet tellus vel tortor volutpat, quis ultricies est egestas. Etiam nec nibh vel enim luctus faucibus quis ac risus. Suspendisse pretium dolor eros. Phasellus neque eros, porta aliquet turpis at, aliquet molestie eros.
           </p>
         </div>
+        <Footer />
       </div>
     );
   }
