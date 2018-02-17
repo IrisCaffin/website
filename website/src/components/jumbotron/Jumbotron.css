@@ -5,6 +5,14 @@
   background-size: 100% auto;
   color: white;
 }
+.display-3 {
+  text-shadow: 1px 1px #333;
+}
+.lead {
+  font-size: 25px;
+  font-weight: 350;
+  text-shadow: 1px 1px #333;
+}
 
 
 /*
