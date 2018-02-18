@@ -1,0 +1,23 @@
+h6 {
+  color: #808080;
+}
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.marketing .col-lg-4 {
+  text-align: center;
+}
+p {
+  display: block;
+}
+.rounded-circle {
+  border-radius: 50%;
+}
+img {
+  vertical-align: middle;
+  border-radius: 50%;
+  border-style: none;
+  width: 140px;
+  height: 140px;
+}
