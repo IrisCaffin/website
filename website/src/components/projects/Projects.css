@@ -21,3 +21,12 @@ img {
   width: 140px;
   height: 140px;
 }
+.ravenous {
+  background-image: url(../../images/restaurant.png);
+}
+.jammming {
+  background-image: url(../../images/music.png);
+}
+.doggie-treats {
+  background-image: url(../../images/paw.png);
+}

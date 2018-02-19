@@ -8,15 +8,34 @@ class Resume extends Component {
     return (
       <div>
         <Navbar />
-        <Jumbotron title="Resume" subtitle="an academic/career overview"/>
+        <Jumbotron title="Resume" subtitle="a career & academic overview"/>
         <div className="container">
           <h2>Resume</h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut metus nisl, suscipit sit amet tellus et, sodales consectetur neque. Morbi ultricies sapien at bibendum pulvinar. Suspendisse rhoncus nulla consectetur dui laoreet auctor. Duis eu ultrices nulla, non mollis est. Fusce at elit vitae augue placerat tincidunt id non nisl. Vestibulum tristique, mauris id tempor pellentesque, tellus odio laoreet enim, vitae faucibus ipsum odio eget sem. Nam eget interdum sapien, eget accumsan odio. Donec tincidunt in ipsum a feugiat. Duis mattis ac risus interdum faucibus. Phasellus nec vulputate ligula. Donec malesuada sed lorem ac faucibus. Praesent id metus a eros venenatis convallis. Ut turpis mi, rhoncus cursus mi vel, rutrum hendrerit libero. Donec nisi quam, vestibulum vitae quam sed, facilisis scelerisque turpis. Curabitur suscipit volutpat massa ac elementum.
-          </p>
-          <p>
-            Donec porttitor nunc eu massa cursus eleifend. Integer vitae nisl mollis ligula convallis dignissim quis ac arcu. Morbi orci odio, convallis id auctor a, gravida at nunc. Nulla eros mi, feugiat quis dictum vel, mattis quis sapien. Duis ac eleifend nisl. Aenean quis maximus ante. Morbi nec nisl dolor. Praesent mattis, leo vel elementum volutpat, augue lacus fermentum tortor, sit amet condimentum augue lectus quis ex. Duis tristique lectus ut ultrices malesuada. Ut scelerisque interdum tortor sed pellentesque. Praesent tellus enim, dictum vel tempor at, egestas nec justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras pellentesque dapibus tempor. Fusce in ullamcorper ipsum.
-          </p>
+          <br/>
+          <h4>Career</h4>
+          <br/>
+          <h5>NTN Buzztime, Inc. | Associate Web Developer, 2016–Present</h5>
+          <h6>Migrating main company website from JavaScript, HTML/CSS (Joomla/WordPress) to ReactJS/Sass</h6>
+          <ul>
+            <li>Ensured consistent page appearance/behavior across multiple browsers (IE8+, FF, Chrome, Safari)</li>
+            <li>Developed/Improved website UI to ensure more attractive and user-friendly experience</li>
+            <li>Applied PCI compliant standards and adopted version control techniques to guarantee efficient, reliable code in an agile development environment</li>
+          </ul>
+          <h6>Provide ungoing support for ReactJS website as well as Joomla/WordPress websites</h6>
+          <ul>
+            <li>Support WordPress lead-gen website with aiding in form funnel development, page creation, and tracking</li>
+            <li>Develop new promotions and perform routine website updates for main ReactJS website</li>
+            <li>Maintain three other websites (WordPress/Joomla) providing new feature support and ongoing maintenance</li>
+          </ul>
+          <br/>
+          <h5>Snapshot of my Television Production background</h5>
+          <h6>Freelance/Contracted, 2007–2015</h6>
+          <ul>
+            <li>Field Producer | Documentary – Moores Cancer Center</li>
+            <li>Co-Producer | Peace Day TV – Peace Day Global Broadcast</li>
+            <li>Associate Producer | The History Channel – Swamp People</li>
+            <li>Production Assistant | KPBS – Television Production, New Media (Web), Radio News</li>
+          </ul>
         </div>
         <Footer />
       </div>
