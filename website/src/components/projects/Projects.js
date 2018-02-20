@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Navbar from '../navbar/Navbar';
-import Footer from '../footer/Footer';
 import Jumbotron from '../jumbotron/Jumbotron';
 import './Projects.css';
 
@@ -39,7 +38,6 @@ class Projects extends Component {
             </div>
           </div>
         </div>
-        <Footer />
       </div>
     );
   }
