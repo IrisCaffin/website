@@ -23,13 +23,13 @@ class Resume extends Component {
           </ul>
           <h6 className="purple">Provide ongoing support for ReactJS website as well as Joomla/WordPress websites</h6>
           <ul>
-            <li>Support WordPress lead-gen website with aiding in form funnel development, page creation, and tracking</li>
+            <li>Support WordPress lead-gen website with sales funnel development, page creation, and tracking</li>
             <li>Develop new promotions and perform routine website updates for main ReactJS website</li>
             <li>Maintain three other websites (Joomla/WordPress) providing new feature support and ongoing maintenance</li>
           </ul>
           <br/>
           <h5>Snapshot of my Television Production Background</h5>
-          <h6>Freelance/Contracted, 2007–2015</h6>
+          <h6 className="purple">Freelance/Contracted, 2007–2015</h6>
           <ul>
             <li>Field Producer | Documentary – Moores Cancer Center</li>
             <li>Co-Producer | Peace Day TV – Peace Day Global Broadcast</li>
@@ -42,23 +42,23 @@ class Resume extends Component {
           <div className="row">
             <div className="col-md-4">
               <h2>Programming</h2>
-              <h6>Current Focus:</h6>
+              <h6 className="purple">Current Focus:</h6>
               <p>ReactJS, JavaScript, HTML/CSS, Sass</p>
-              <h6>Dabbled in/Worked with:</h6>
+              <h6 className="purple">Dabbled in/Worked with:</h6>
               <p>C#/.NET, AngularJS, Python, SQL</p>
             </div>
             <div className="col-md-4">
               <h2>Education</h2>
-              <h6>San Diego State University</h6>
+              <h6 className="purple">San Diego State University</h6>
               <p>Bachelor in Science degree – 2009<br/>Television, Film and New Media Production</p>
-              <h6>San Diego State University</h6>
+              <h6 className="purple">San Diego State University</h6>
               <p>Master in Arts degree – 2011<br/>Television, Film and New Media Production</p>
            </div>
             <div className="col-md-4">
               <h2>Certifications</h2>
-              <h6>Origin Code Academy</h6>
+              <h6 className="purple">Origin Code Academy</h6>
               <p>Full Stack Development – 2016<br/>C#/.NET, JavaScript, HTML/CSS, SQL</p>
-              <h6>Codecademy Pro Intensive</h6>
+              <h6 className="purple">Codecademy Pro Intensive</h6>
               <p>Front End Web Apps – 2017<br/>JavaScript, ReactJS, HTML/CSS</p>
             </div>
           </div>
