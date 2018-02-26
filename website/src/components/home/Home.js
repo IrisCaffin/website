@@ -10,7 +10,6 @@ class Home extends Component {
         <Navbar />
         <Jumbotron title="Welcome" subtitle="to my website/portfolio"/>
         <div className="container">
-          <h2>Welcome</h2>
           <br/>
             <div className="row featurette">
              <div className="col-md-7 push-md-5">

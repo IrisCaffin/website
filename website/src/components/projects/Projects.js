@@ -10,7 +10,6 @@ class Projects extends Component {
         <Navbar />
         <Jumbotron title="Projects" subtitle="have a look at what I've been tinkering at…"/>
         <div className="container">
-          <h2>Projects</h2>
           <br />
           <div className="container marketing">
             <div className="row">

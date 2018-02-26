@@ -1,19 +1,11 @@
-.display-3 {
-  color: white;
-}
-
 p {
   display: block;
 }
-
 img {
   vertical-align: middle;
   border-radius: 100%;
   border-style: none;
-  width: 213px !important;
-  height: 319px !important;
 }
-
 .iris {
   background-image: url(../../images/iris-caffin.jpg);
   vertical-align: middle;

@@ -10,7 +10,6 @@ class Resume extends Component {
         <Navbar />
         <Jumbotron title="Resume" subtitle="a career & academic overview"/>
         <div className="container">
-          <h2>Resume</h2>
           <br/>
           <h2>Career</h2>
           <br/>
