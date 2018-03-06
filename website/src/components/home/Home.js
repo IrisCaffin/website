@@ -1,7 +1,9 @@
+import myPic from '../../images/iris-caffin.jpg';
 import React, { Component } from 'react';
 import Navbar from '../navbar/Navbar';
 import Footer from '../footer/Footer';
 import Jumbotron from '../jumbotron/Jumbotron';
+import './Home.css';
 
 class Home extends Component {
   render() {
@@ -22,7 +24,7 @@ class Home extends Component {
                  <p>Check out my projects on GitHub <a href="https://github.com/IrisCaffin" target="_blank" rel="noopener noreferrer">here</a>.</p>
              </div>
              <div className="col-md-5 pull-md-7">
-               <img className="iris" alt=""/>
+               <img className="iris" src={myPic} alt=""/>
              </div>
            </div>
         </div>
