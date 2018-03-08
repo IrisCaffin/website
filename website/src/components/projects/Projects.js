@@ -17,14 +17,14 @@ class Projects extends Component {
                 <img className="ravenous" alt=""/>
                 <h2>Ravenous</h2>
                 <h6 className="purple">ReactJS</h6>
-                <p>A Yelp-like website that allows the user to search for a restaurant, view a list of restaurants returned by the Yelp API, and sort through restaurants using a filter.</p>
+                <p>Ravenous is a Yelp-like website that allows the user to search for a restaurant, view a list of restaurants returned by the Yelp API, and sort through restaurants using a filter.</p>
                 <p><a className="btn btn-secondary" href="http://ravenous-icaffin.surge.sh/" target="_blank" rel="noopener noreferrer" role="button">View details »</a></p>
               </div>
               <div className="col-lg-4">
                 <img className="jammming" alt=""/>
                 <h2>Jammming</h2>
                 <h6 className="purple">ReactJS</h6>
-                <p>A playlist creator website that with the Spotify API allows a user to search the Spotify library, create custom playlists, and then save it to their Spotify account.</p>
+                <p>Jammming is a playlist creator website that with the Spotify API allows a user to search the Spotify library, create custom playlists, and then save it to their Spotify account.</p>
                 <p><a className="btn btn-secondary" href="http://jammmingiris.surge.sh/" target="_blank" rel="noopener noreferrer" role="button">View details »</a></p>
               </div>
               <div className="col-lg-4">

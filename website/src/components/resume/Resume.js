@@ -35,6 +35,7 @@ class Resume extends Component {
             <li>Associate Producer | The History Channel – Swamp People</li>
             <li>Production Assistant | KPBS – Television Production, New Media (Web), Radio News</li>
           </ul>
+          <p className="details">*For more television production details check out my LinkedIn profile <a href="https://www.linkedin.com/in/iriscaffin/" target="_blank" rel="noopener noreferrer">here</a>.</p>
         </div>
         <br/>
         <div className="container">
@@ -49,9 +50,9 @@ class Resume extends Component {
             <div className="col-md-4">
               <h2>Education</h2>
               <h6 className="purple">San Diego State University</h6>
-              <p>Bachelor in Science degree – 2009<br/>Television, Film and New Media Production</p>
+              <p>Bachelor of Science degree – 2009<br/>Television, Film and New Media Production</p>
               <h6 className="purple">San Diego State University</h6>
-              <p>Master in Arts degree – 2011<br/>Television, Film and New Media Production</p>
+              <p>Master of Arts degree – 2011<br/>Television, Film and New Media Production</p>
            </div>
             <div className="col-md-4">
               <h2>Certifications</h2>
