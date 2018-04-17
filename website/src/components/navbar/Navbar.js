@@ -5,9 +5,9 @@ import './Navbar.css';
 class Navbar extends Component {
   render() {
     return(
-      <nav className="navbar navbar-toggleable-md">
+      <nav className="navbar navbar-toggleable-md custom-toggler bg-light">
         <button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-          <span className="navbar-toggler-icon"></span>
+          <span className="navbar-toggler-icon custom-toggler"></span>
         </button>
         <div className="container">
           <Link className="navbar-brand" to="/">Iris Caffin</Link>

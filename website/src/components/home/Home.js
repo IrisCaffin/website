@@ -1,7 +1,7 @@
 import myPic from '../../images/iris-caffin.jpg';
 import React, { Component } from 'react';
 import Navbar from '../navbar/Navbar';
-import Footer from '../footer/Footer';
+// import Footer from '../footer/Footer';
 import Jumbotron from '../jumbotron/Jumbotron';
 import './Home.css';
 
@@ -28,7 +28,7 @@ class Home extends Component {
              </div>
            </div>
         </div>
-        <Footer />
+        {/* <Footer />*/}
       </div>
     );
   }
