@@ -24,7 +24,7 @@ class Resume extends Component {
           <ul>
             <li>Support WordPress lead-gen website with sales funnel development, page creation, and tracking</li>
             <li>Develop new promotions and perform routine website updates for main ReactJS website</li>
-            <li>Maintain three other websites (Joomla/WordPress) providing new feature support and ongoing maintenance</li>
+            <li>Maintain other company websites (Joomla/WordPress) providing new feature support and ongoing maintenance</li>
           </ul>
           <br/>
           <h5>Snapshot of my Television Production Background</h5>
@@ -50,16 +50,16 @@ class Resume extends Component {
             <div className="col-md-4">
               <h2>Education</h2>
               <h6 className="purple">San Diego State University</h6>
-              <p>Bachelor of Science degree – 2009<br/>Television, Film and New Media Production</p>
-              <h6 className="purple">San Diego State University</h6>
               <p>Master of Arts degree – 2011<br/>Television, Film and New Media Production</p>
+              <h6 className="purple">San Diego State University</h6>
+              <p>Bachelor of Science degree – 2009<br/>Television, Film and New Media Production</p>
            </div>
             <div className="col-md-4">
               <h2>Certifications</h2>
-              <h6 className="purple">Origin Code Academy</h6>
-              <p>Full Stack Development – 2016<br/>C#/.NET, JavaScript, HTML/CSS, SQL</p>
-              <h6 className="purple">Codecademy Pro Intensive</h6>
-              <p>Front End Web Apps – 2017<br/>JavaScript, ReactJS, HTML/CSS</p>
+                <h6 className="purple">Codecademy Pro Intensive</h6>
+                <p>Front End Web Apps – 2017<br/>JavaScript, ReactJS, HTML/CSS</p>
+                <h6 className="purple">Origin Code Academy</h6>
+                <p>Full Stack Development – 2016<br/>C#/.NET, JavaScript, HTML/CSS, SQL</p>
             </div>
           </div>
         </div>
