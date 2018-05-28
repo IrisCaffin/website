@@ -14,7 +14,7 @@ class Resume extends Component {
           <h2>Career</h2>
           <br/>
           <h5>NTN Buzztime, Inc. | Associate Web Developer, 2016–Present</h5>
-          <h6 className="purple">Migrating main company website from JavaScript, HTML/CSS (Joomla/WordPress) to ReactJS/Sass</h6>
+          <h6 className="purple">Migrating main company website from JavaScript, HTML/CSS, PHP (Joomla/WordPress) to ReactJS/Sass</h6>
           <ul>
             <li>Ensured consistent page appearance/behavior across multiple browsers (IE8+, FF, Chrome, Safari)</li>
             <li>Developed/Improved website UI to ensure more attractive and user-friendly experience</li>
@@ -45,7 +45,7 @@ class Resume extends Component {
               <h6 className="purple">Current Focus:</h6>
               <p>ReactJS, JavaScript, HTML/CSS, Sass</p>
               <h6 className="purple">Dabbled in/Worked with:</h6>
-              <p>C#/.NET, AngularJS, Python, SQL</p>
+              <p>C#/.NET, AngularJS, Python, PHP, SQL</p>
             </div>
             <div className="col-md-4">
               <h2>Education</h2>

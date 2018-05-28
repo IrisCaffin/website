@@ -23,10 +23,16 @@ img {
 }
 .ravenous {
   background-image: url(../../images/restaurant.png);
+  padding: 69px;
+  background-repeat: no-repeat;
 }
 .jammming {
   background-image: url(../../images/music.png);
+  padding: 69px;
+  background-repeat: no-repeat;
 }
 .doggie-treats {
   background-image: url(../../images/paw.png);
+  padding: 69px;
+  background-repeat: no-repeat;
 }
